@@ -1,9 +1,6 @@
 # DNSBL Blocklists for your Pihole, pfsense, etc.
 
-*** No Warranty! Use at your own risk! ***
-
-
-Direct links below. Put it in your Pihole or pfsense list.
+Direct links below.
 
 Advertising, Telemetry, Tracker and more DNSBL:
 <br>
