@@ -2,7 +2,7 @@
 
 Direct links below.
 
-Advertising, telemetry, tracker and more DNSBL:
+Advertising, telemetry, tracker, spam and more DNSBL:
 <br>
 https://raw.githubusercontent.com/bformless/Blocklists/main/Ads_Telemetry_Tracker_DNSBL.txt
 
