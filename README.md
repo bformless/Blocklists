@@ -1,12 +1,12 @@
-# DNSBL Blocklists for your Pihole, pfsense, etc.
+# DNSBL (Domain Name Service Block List) for your Pihole, pfsense, etc.
 
 Direct links below.
 
-Advertising, Telemetry, Tracker and more DNSBL:
+Advertising, telemetry, tracker and more DNSBL:
 <br>
 https://raw.githubusercontent.com/bformless/Blocklists/main/Ads_Telemetry_Tracker_DNSBL.txt
 
-Malicious Domains and Sites (malware, trojans, fraud, etc.) Megabase DNSBL:
+Malicious domains and websites (malware, trojans, fraud, etc.) Megabase DNSBL:
 <br>
 https://raw.githubusercontent.com/bformless/Blocklists/main/Malicious_MegaBase_DNSBL_1.txt
 <br>
