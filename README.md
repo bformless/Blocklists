@@ -1,4 +1,5 @@
-# DNSBL (Domain Name Service Block List) for your Pihole, pfsense, etc.
+# DNSBL (Domain Name Service Block List)
+for your Pihole, pfsense, etc.
 
 Direct links below.
 
