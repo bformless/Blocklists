@@ -15,5 +15,8 @@ https://raw.githubusercontent.com/bformless/Blocklists/main/Malicious_MegaBase_D
 <br>
 https://raw.githubusercontent.com/bformless/Blocklists/main/Malicious_MegaBase_DNSBL_3.txt
 <br>
+https://raw.githubusercontent.com/bformless/Blocklists/main/Malicious_MegaBase_DNSBL_4.txt
+<br>
+
 
 
