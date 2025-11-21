@@ -3,7 +3,7 @@ for your Pihole, pfsense, etc.
 
 Direct links below.
 
-Advertising, telemetry, tracker, spam and more DNSBL:
+Advertising, telemetry, tracker, spam, _dmarc email tracking, and more DNSBL:
 <br>
 https://raw.githubusercontent.com/bformless/Blocklists/main/Ads_Telemetry_Tracker_DNSBL.txt
 
