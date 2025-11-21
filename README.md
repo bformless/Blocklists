@@ -7,7 +7,7 @@ Advertising, telemetry, tracker, spam and more DNSBL:
 <br>
 https://raw.githubusercontent.com/bformless/Blocklists/main/Ads_Telemetry_Tracker_DNSBL.txt
 
-Malicious domains and websites (malware, trojans, fraud, etc.) Megabase DNSBL:
+Malicious domains and websites (malware, trojans, phishing, fraud, etc.) Megabase DNSBL:
 <br>
 https://raw.githubusercontent.com/bformless/Blocklists/main/Malicious_MegaBase_DNSBL_1.txt
 <br>
