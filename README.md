@@ -20,6 +20,9 @@ https://raw.githubusercontent.com/bformless/Blocklists/main/Malicious_MegaBase_D
 Top 500 domains and websites (tracker,ads, etc.) for your Fritz!Box Internet Domain Blocklist:
 <br>
 https://raw.githubusercontent.com/bformless/Blocklists/main/fritzbox_top500_blocklist.txt
+
+Top 64 IP Blocklist for your Fritz!Box Internet IP Blocklist:
 <br>
+https://raw.githubusercontent.com/bformless/Blocklists/main/fritzbox_top64_longterm_ip_blocklist.txt
 
 
