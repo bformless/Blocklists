@@ -23,6 +23,9 @@ https://raw.githubusercontent.com/bformless/Blocklists/main/fritzbox_top500_bloc
 <br><br>
 # IPBL (Internet Protocol Block List)
 for your pfsense, IP blocker, etc.
+
+Direct links below.
+
 <br>
 https://raw.githubusercontent.com/bformless/Blocklists/main/Malicious_MegaBase_IPBL.txt
 <br><br>
