@@ -26,6 +26,7 @@ for your pfsense, IP blocker, etc.
 
 Direct links below.
 
+Malicious IPs (malware, trojans, phishing, fraud, etc.) Megabase IPBL:
 <br>
 https://raw.githubusercontent.com/bformless/Blocklists/main/Malicious_MegaBase_IPBL.txt
 <br><br>
